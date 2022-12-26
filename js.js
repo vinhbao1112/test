@@ -51,3 +51,20 @@
 
 // const b = a.map(a=>a)
 // console.log(b)
+
+// Bài  5 
+
+// var arr = [1,2,3,4]
+
+// var first = arr.shift()
+// console.log(first)
+// console.log(arr)
+
+// Bài 6
+
+// var arr = [1,2,3,4]
+
+// var last = arr.pop()
+// console.log(last)
+// console.log(arr)
+ 
